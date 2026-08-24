@@ -4,7 +4,7 @@ Connect Claude Code (or Codex, or any MCP client) to your [Retain](https://www.b
 
 ```
 export RETAIN_API_KEY=rtn_...        # from Retain → Settings → Agent access (MCP)
-/plugin marketplace add arjaythedev/retain-plugin
+/plugin marketplace add buildretain/claude-plugin
 /plugin install retain@retain
 ```
 

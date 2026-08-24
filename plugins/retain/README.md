@@ -15,7 +15,7 @@ Lets Claude read, draft, and schedule the questions and lessons in your Retain w
 3. In Claude Code:
 
    ```
-   /plugin marketplace add arjaythedev/retain-plugin-plugin
+   /plugin marketplace add buildretain/claude-plugin-plugin
    /plugin install retain@retain
    ```
 
