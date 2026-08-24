@@ -1,0 +1,10 @@
+{
+  "name": "retain",
+  "version": "1.0.0",
+  "description": "Read, draft, and schedule questions and lessons in your Retain workspace.",
+  "author": { "name": "Retain", "url": "https://www.buildretain.com" },
+  "homepage": "https://www.buildretain.com",
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills"
+}

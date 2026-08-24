@@ -1,0 +1,21 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "retain",
+  "owner": { "name": "Retain", "url": "https://www.buildretain.com" },
+  "description": "Connect Claude Code to your Retain workspace to read, write, and schedule learning content.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "retain",
+      "displayName": "Retain",
+      "source": "./plugins/retain",
+      "description": "Read, draft, and schedule questions and lessons in your Retain workspace.",
+      "version": "1.0.0",
+      "author": { "name": "Retain", "url": "https://www.buildretain.com" },
+      "homepage": "https://www.buildretain.com",
+      "license": "MIT",
+      "keywords": ["retain", "learning", "creator", "mcp"],
+      "category": "productivity"
+    }
+  ]
+}

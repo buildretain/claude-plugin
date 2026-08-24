@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "retain": {
+      "type": "http",
+      "url": "https://www.buildretain.com/mcp",
+      "headers": { "Authorization": "Bearer ${RETAIN_API_KEY}" }
+    }
+  }
+}
